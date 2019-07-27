@@ -20,7 +20,7 @@ description: Site promouvant coopération, entraide, éthique
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "A propos"
+  About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
