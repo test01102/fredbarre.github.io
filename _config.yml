@@ -69,16 +69,16 @@ author:
 social-network-links:
   rss: true
   email: "someone@example.com"
-  facebook: deanattali
+# facebook: deanattali
   github: daattali
-  twitter: daattali
+# twitter: daattali
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
-#  youtube: user/deanat78
+  youtube: user/fredbarre
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -93,7 +93,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "fredbarre.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
