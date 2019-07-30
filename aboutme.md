@@ -1,16 +1,13 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Contact/Qui-suis-je?
+subtitle: Comment puis-je vous aider?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Salut ,c'est Fred, Expert des nouvelles technologies(internet,bitcoin et pleins d'autres).
+Je crée des articles, des tutoriels, des videos pour encourager les débutants a se diriger sur les meilleures
+alternatives pour eux.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Je suis aussi développeur C/C++(Qt).
+Mais je ne vais probablement pas beaucoup en parler dans le blog.
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
