@@ -18,9 +18,9 @@ Si vous avez une mission de développement C/C++ je suis prenneur également uti
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
   <input type='hidden' name='redirect_to' value='<the complete return url e.g. http://fooey.com/thank-you.html>' />
   <!-- all your input fields here.... -->
-  email: <br>
+  Email: <br>
   <input type='email' name='email' placeholder="Entrez votre email" /><br> 
-  message: <br>
+  Message: <br>
   <textarea name="message" placeholder="Entrez votre message" rows="10" cols="60"></textarea><br>
   <input type='submit' value='envoyer' />
 </form>
