@@ -21,7 +21,6 @@ Si vous avez une mission de développement C/C++ je suis prenneur également uti
   email: <br>
   <input type='email' name='email' placeholder="Entrez votre email" /><br> 
   message: <br>
-  <input type='textarea' rows="3" name='message' placeholder="Entrez votre message" /><br>  
-  <textarea name="message" rows="10" cols="30">The cat was playing in the garden.</textarea>
+  <textarea name="message" placeholder="Entrez votre message" rows="10" cols="60">The cat was playing in the garden.</textarea><br>
   <input type='submit' value='envoyer' />
 </form>
