@@ -1,9 +1,11 @@
 ---
 layout: post
 title: First post!
-image: /img/hello_world.jpeg
+image: /img/intro.png
 comments: true
+permalink: intro
+
 ---
 
 This is my first post, how exciting!
-Test comments
+
