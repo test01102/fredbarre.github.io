@@ -2,6 +2,7 @@
 layout: page
 title: Contact/Qui-suis-je?
 subtitle: Comment puis-je vous aider?
+permalink: contact
 ---
 
 Salut ,c'est Fred, Expert des nouvelles technologies(internet,bitcoin et pleins d'autres).
