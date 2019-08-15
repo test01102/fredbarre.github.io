@@ -21,7 +21,8 @@ url: "https://www.fredbarre.com"
 # List of links in the navigation bar
 navbar-links:
   Contact: "contact"
-  #Resources:
+  English: "https://www.fredbarre.com/tags/#english"
+  Français: "https://www.fredbarre.com/tags/#fr"
    # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
    # - Learn markdown: "http://www.markdowntutorial.com/"
   Accueil: "https://www.fredbarre.com"
