@@ -35,9 +35,15 @@ Make it clear your ability to yourself and your client if you can succeed the mi
 The extra tip is to use software that boost your speed and/or the quality of your work. Since it was a programming freelance mission mine was about the ability to go back to what worked at a previous save
 
 resume:
+
 1st mistake I was in "learning mode/exam mode" instead of being in "doing the best/fastest job" I can using any resource I have including google.
+
 2nd mistake price (€1/h)
+
 3rd Time Management(20h-18h/day work)
+
 4th Energy Management(burnout)
+
 5th know the Limits on your ability(promised way too much for that)/ time wise.
+
 extra tip: Use Github/Git or other Version Control software.
