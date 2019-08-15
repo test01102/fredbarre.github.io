@@ -26,5 +26,5 @@ Si vous avez une mission de développement C/C++ je suis prenneur également uti
 
 English:
 
-Hi, my name is Fred, I am a Tech-Expert (bitcoin, blockchain) bloging/writing on these subjects.
+Hi, my name is Fred. I am a Tech-Expert (bitcoin, blockchain) bloging/writing on these subjects.
 Contact me if you are interested to get my writing for your website.
