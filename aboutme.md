@@ -6,10 +6,8 @@ permalink: contact
 ---
 
 Salut ,c'est Fred, Expert des nouvelles technologies(internet,bitcoin et pleins d'autres).
-Je crée des articles, des tutoriels, des videos pour encourager les débutants a se diriger sur les meilleures
-alternatives pour eux.
-
-Je peux écrire des articles pour votre site pour vous aider dans le réferencement.
+Je crée des articles, des tutoriels sur ces sujets.
+Je peux écrire des articles pour votre site .
 
 Je suis aussi développeur C/C++(Qt), en freelance.
 
@@ -25,3 +23,8 @@ Si vous avez une mission de développement C/C++ je suis prenneur également uti
   <textarea name="message" placeholder="Entrez votre message" rows="10" cols="60"></textarea><br>
   <input type='submit' value='envoyer' />
 </form>
+
+English:
+
+Hi, my name is Fred, I am a Tech-Expert (bitcoin, blockchain) bloging/writing on these subjects.
+Contact me if you are interested to get my writing for your website.
