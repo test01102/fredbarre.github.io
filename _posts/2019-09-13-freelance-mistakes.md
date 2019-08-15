@@ -1,10 +1,10 @@
 ---
 layout: post
 title: 5 freelance mistakes I am learning from
-image: /img/erreurs.png
+image: /img/tired.png
 comments: true
 permalink: freelance-mistakes
-subtitle:My first programming freelance mission : building an android app
+subtitle: My first programming freelance mission : building an android app
 tags: [tips],[english]
 ---
 
