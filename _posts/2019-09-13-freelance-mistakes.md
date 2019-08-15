@@ -5,7 +5,7 @@ image: /img/tired.png
 comments: true
 permalink: freelance-mistakes
 subtitle: My first programming freelance mission, building an android app
-tags: [english]
+tags: [english, tips]
 ---
 
 
