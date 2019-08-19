@@ -22,13 +22,12 @@ url: "https://www.fredbarre.com"
 navbar-links:
   Contact: 
    - EN: "contact"
-   - FR: "contactfr"
+   - FR: "contact"
    Blog:
    - EN: "https://www.fredbarre.com/tags/#english"
    - FR: "https://www.fredbarre.com/tags/#fr"
    # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
    # - Learn markdown: "http://www.markdowntutorial.com/"
-  
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
