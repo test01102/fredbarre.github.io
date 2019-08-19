@@ -22,9 +22,10 @@ url: "https://www.fredbarre.com"
 navbar-links:
   Contact: 
    - EN: "contact"
-   - FR: "contact"
-  English: "https://www.fredbarre.com/tags/#english"
-  Français: "https://www.fredbarre.com/tags/#fr"
+   - FR: "contactfr"
+   Blog:
+   - EN: "https://www.fredbarre.com/tags/#english"
+   - FR: "https://www.fredbarre.com/tags/#fr"
    # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
    # - Learn markdown: "http://www.markdowntutorial.com/"
   
