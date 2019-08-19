@@ -23,7 +23,7 @@ navbar-links:
   Contact: 
    - EN: "contact"
    - FR: "contact"
-   Blog:
+   Blog: 
    - EN: "https://www.fredbarre.com/tags/#english"
    - FR: "https://www.fredbarre.com/tags/#fr"
    # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
