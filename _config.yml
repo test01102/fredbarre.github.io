@@ -20,12 +20,12 @@ url: "https://www.fredbarre.com"
 
 # List of links in the navigation bar
 navbar-links:
-  Contact:
-   - EN: "contact"
-   - FR: "contact"
-   Blog:
-   - ListEN: "https://www.fredbarre.com/tags/#english"
-   - ListeFR: "https://www.fredbarre.com/tags/#fr"
+ Contact:
+ - EN: "contact"
+ - FR: "contact"
+ Blog:
+ - EN: "https://www.fredbarre.com/tags/#english"
+ - FR: "https://www.fredbarre.com/tags/#fr"
    # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
    # - Learn markdown: "http://www.markdowntutorial.com/"
 
