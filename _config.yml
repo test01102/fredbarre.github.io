@@ -22,7 +22,7 @@ url: "https://www.fredbarre.com"
 navbar-links:
  Contact:
  - EN: "contact"
- - FR: "contact"
+ - FR: "contactfr"
  Blog:
  - EN: "https://www.fredbarre.com/tags/#english"
  - FR: "https://www.fredbarre.com/tags/#fr"
