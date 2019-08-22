@@ -10,12 +10,14 @@ tags: [english, tips]
 
 
 1st mistake
+![schoolLearning](https://www.fredbarre.com/img/school.jpg)
 
 I learn programming at school but it gave me bad habits.When you are learning for exams on paper, you are trying to memorise as much as possible because there is no google at the exam...
 And you will often start work from the start. When you can have already done that work before and needed to copy paste to gain a lot of time.
 You have to understand to use the tools at your disposal to do the work including google.And even if you are not stuck its better to use google search to have a huge speed boost.
 
 2nd mistake
+![client](https://www.fredbarre.com/img/empty.png)
 My 1st client wasn't ready to put the price, and it put the burden on me to make it work.And tried to work fast.I did it anyway for €1/h for 2 months.
 It was a valuable learning experience but that might have been too much.
 
