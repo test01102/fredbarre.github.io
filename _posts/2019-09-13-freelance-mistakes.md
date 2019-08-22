@@ -10,6 +10,7 @@ tags: [english, tips]
 
 
 1st mistake
+
 ![schoolLearning](https://www.fredbarre.com/img/school.jpg)
 
 I learn programming at school but it gave me bad habits.When you are learning for exams on paper, you are trying to memorise as much as possible because there is no google at the exam...
@@ -17,7 +18,9 @@ And you will often start work from the start. When you can have already done tha
 You have to understand to use the tools at your disposal to do the work including google.And even if you are not stuck its better to use google search to have a huge speed boost.
 
 2nd mistake
+
 ![client](https://www.fredbarre.com/img/empty.png)
+
 My 1st client wasn't ready to put the price, and it put the burden on me to make it work.And tried to work fast.I did it anyway for €1/h for 2 months.
 It was a valuable learning experience but that might have been too much.
 
@@ -29,12 +32,13 @@ No matter what, I think 10h a day is most I can give even if I am bad at somethi
 
 4th mistake
 
-Even if I am during a freelance mission, I still need to do things I normally do like going to sport one to two times a week, take some fresh air outside.
+During a freelance mission I still need to do things I normally do like going to sport one to two times a week, take some fresh air outside.
 This will allow me to not burnout again and still take a liking into the work I do.
 
 5th mistake
 
 Make it clear your ability to yourself and your client if you can succeed the mission.
+
 The extra tip is to use software that boost your speed and/or the quality of your work. Since it was a programming freelance mission mine was about the ability to go back to what worked at a previous save
 
 resume:
