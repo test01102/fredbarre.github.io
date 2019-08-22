@@ -5,13 +5,9 @@ subtitle: Comment puis-je vous aider?
 permalink: contact
 ---
 
-Salut ,c'est Fred, Expert des nouvelles technologies(internet,bitcoin et pleins d'autres).
-Je crée des articles, des tutoriels sur ces sujets.
-Je peux écrire des articles pour votre site .
+Hi, my name is Fred. I am a Tech-Expert (bitcoin, blockchain) bloging/writing on these subjects.
 
-Je suis aussi développeur C/C++(Qt), en freelance.
-
-Si vous avez une mission de développement C/C++ je suis prenneur également utilisez le formulaire de contact ci dessous pour me contacter.
+Contact me if you are interested to get my writing for your website.
 
 <form action="https://getsimpleform.com/messages?form_api_token=3e7fb77bf99a6857fb4d4051226fa5ab" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
@@ -24,7 +20,5 @@ Si vous avez une mission de développement C/C++ je suis prenneur également uti
   <input type='submit' value='envoyer' />
 </form>
 
-English:
 
-Hi, my name is Fred. I am a Tech-Expert (bitcoin, blockchain) bloging/writing on these subjects.
-Contact me if you are interested to get my writing for your website.
+
