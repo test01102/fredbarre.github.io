@@ -22,11 +22,7 @@ url: "https://www.fredbarre.com"
 navbar-links:
  About: "about"
  Contact: "contact"
- - EN: "contact"
- - FR: "contactfr"
  Blog: "https://www.fredbarre.com/tags/#english"
- - EN: "https://www.fredbarre.com/tags/#english"
- - FR: "https://www.fredbarre.com/tags/#fr"
  Ressources: "ressources"
  
    # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
