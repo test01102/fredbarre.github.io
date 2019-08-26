@@ -1,10 +1,8 @@
 ---
 layout: page
 title: Ressources
-comments: true
 permalink: ressources
 subtitle: My favorites software, website. 
-tags: [ressources],[english]
 ---
 
 My links: 
