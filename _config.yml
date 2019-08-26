@@ -23,7 +23,7 @@ navbar-links:
  About: "about"
  Contact: "contact"
  Blog: "https://www.fredbarre.com/tags/#english"
- Ressources: "ressources"
+ Resources: "resources"
  
    # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
    # - Learn markdown: "http://www.markdowntutorial.com/"
