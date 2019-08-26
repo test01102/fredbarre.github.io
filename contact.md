@@ -2,12 +2,11 @@
 layout: page
 title: Contact
 permalink: contact
-subtitle: My favorites software, website. 
 ---
 
 Hi, my name is Fred. I am a Tech-Expert (bitcoin, blockchain) bloging/writing on these subjects.
 
-Contact me if you are interested to get my writing for your website.
+Contact me if you are interested to get my writing for your website or anything else.
 
 <form action="https://getsimpleform.com/messages?form_api_token=3e7fb77bf99a6857fb4d4051226fa5ab" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
