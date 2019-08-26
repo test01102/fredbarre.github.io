@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Ressources
-permalink: ressources
+title: Resources
+permalink: resources
 subtitle: My favorites software, website. 
 ---
 
