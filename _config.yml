@@ -20,7 +20,7 @@ url: "https://www.fredbarre.com"
 
 # List of links in the navigation bar
 navbar-links:
- About: "about"
+ About me: "about"
  Contact: "contact"
  Blog: "https://www.fredbarre.com/tags/#english"
  Resources: "resources"
