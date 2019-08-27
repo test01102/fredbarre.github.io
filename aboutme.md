@@ -5,7 +5,7 @@ subtitle: why do you want to work with me ?
 permalink: about
 ---
 
-![fred]("https://www.fredbarre.com/img/3.jpg")
+![fred](https://www.fredbarre.com/img/3.jpg "")
 
 Hi, my name is Fred.
 
