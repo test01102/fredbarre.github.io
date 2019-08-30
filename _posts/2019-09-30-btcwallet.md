@@ -1,7 +1,7 @@
 ---
 layout: post
 title: bitcoin.com wallet step-by-step guide
-image: /img/btc/btcwalletlogo.png
+image: /img/btc/btc.jpg
 comments: true
 permalink: btcwallet
 subtitle: 
