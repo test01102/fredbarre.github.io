@@ -8,4 +8,10 @@ subtitle:
 tags: [english, tips, tutorials, bitcoin, guide]
 ---
 
-Test
+Items needed for this tutorial :
+- a smartphone or iphone
+- a pen
+- a paper
+- a internet connexion
+
+
