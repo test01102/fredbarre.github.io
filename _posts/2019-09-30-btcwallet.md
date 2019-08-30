@@ -14,4 +14,10 @@ Items needed for this tutorial :
 - a paper
 - a internet connexion
 
+Download bitcoin.com wallet at :
 
+https://play.google.com/store/apps/details?id=com.bitcoin.mwallet
+
+or
+
+https://apps.apple.com/us/app/bitcoin-wallet-by-bitcoin-com/id1252903728?ls=1
