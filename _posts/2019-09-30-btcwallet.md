@@ -17,9 +17,12 @@ Items needed for this tutorial :
 Download bitcoin.com wallet at :
 
 [![bitcoin.com wallet google store download link](https://www.fredbarre.com/img/btc/dland.png)](https://play.google.com/store/apps/details?id=com.bitcoin.mwallet){:target="_blank"}
-https://play.google.com/store/apps/details?id=com.bitcoin.mwallet
+
 
 or
 
+
 [![bitcoin.com wallet apple store download link](https://www.fredbarre.com/img/btc/dlapp.png)](https://apps.apple.com/us/app/bitcoin-wallet-by-bitcoin-com/id1252903728?ls=1){:target="_blank"}
-https://apps.apple.com/us/app/bitcoin-wallet-by-bitcoin-com/id1252903728?ls=1
+
+
+
