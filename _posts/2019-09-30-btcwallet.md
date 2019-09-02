@@ -23,6 +23,7 @@ or
 
 
 [![bitcoin.com wallet apple store download link](https://www.fredbarre.com/img/btc/dlapp.png)](https://apps.apple.com/us/app/bitcoin-wallet-by-bitcoin-com/id1252903728?ls=1){:target="_blank"}
+I will use red arrrows in pictures to point where to tap.
 
 ![Step1](https://www.fredbarre.com/img/btc/Step1GoToSettings.JPG)
 
@@ -35,6 +36,8 @@ or
 ![Step5](https://www.fredbarre.com/img/btc/Step5SaveWallet.JPG)
 
 ![Step6](https://www.fredbarre.com/img/btc/Step6Receive.JPG)
+
+
 
 ![Step7](https://www.fredbarre.com/img/btc/Step7QRCodeAdress.JPG)
 
