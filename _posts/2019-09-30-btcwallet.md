@@ -24,5 +24,11 @@ or
 
 [![bitcoin.com wallet apple store download link](https://www.fredbarre.com/img/btc/dlapp.png)](https://apps.apple.com/us/app/bitcoin-wallet-by-bitcoin-com/id1252903728?ls=1){:target="_blank"}
 
-
-
+![Step1](https://www.fredbarre.com/img/btc/Step1GoToSettings.JPG)
+![Step2](https://www.fredbarre.com/img/btc/Step2Set.JPG
+![Step3](https://www.fredbarre.com/img/btc/Step3GoToBCH.JPG
+![Step4](https://www.fredbarre.com/img/btc/Step4WalletNotSave.JPG
+![Step5](https://www.fredbarre.com/img/btc/Step5SaveWallet.JPG
+![Step6](https://www.fredbarre.com/img/btc/Step6Receive.JPG
+![Step7](https://www.fredbarre.com/img/btc/Step7QRCodeAdress.JPG
+![Step8](https://www.fredbarre.com/img/btc/ExtraStep8scan.JPG
