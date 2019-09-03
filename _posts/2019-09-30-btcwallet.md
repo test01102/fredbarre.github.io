@@ -32,6 +32,7 @@ Tap the gear to enter option menu.
 ![Step1](https://www.fredbarre.com/img/btc/Step1GoToSettings.JPG)
 
 Tap Language to set your prefered langage and Tap Alternative currency to set your Alternative currency.
+
 (Quick side note : Bitcoin.com wallet is a bitcoin wallet,which means there are bitcoin in your wallet no matter what alternative currency you set up).
 
 ![Step2](https://www.fredbarre.com/img/btc/Step2Set.JPG)
@@ -45,7 +46,9 @@ Tap on "Wallet not backed up"
 ![Step4](https://www.fredbarre.com/img/btc/Step4WalletNotSave.JPG)
 
 Time to get that pen and paper.Once You are ready tap Got it.Write down the backup phrase with that pen and paper.
+
 Do not write your backup phrase in your computer or in a text document or in your phone.
+
 I repeat use that pen and paper and store that paper in a proper safe location.Anyone getting that backup phrase can spend your bitcoins.
 
 ![Step5](https://www.fredbarre.com/img/btc/Step5SaveWallet.JPG)
@@ -55,19 +58,25 @@ Tap Receive.
 ![Step6](https://www.fredbarre.com/img/btc/Step6Receive.JPG)
 
 The pixeled "thing" in the middle is called a QR Code.
+
 The big chain of characters is your address.
 
 If you want to receive bitcoin. all you need to do is either: 
--show/send the qrcode .
--send the the adress(the 2nd red arrow. you can copy by tapping it).
+
+-show/send the qrcode.
+
+-send the the adress(the 2nd red arrow, you can copy it by tapping).
+
 -send both for confirmation.
 
 
 ![Step7](https://www.fredbarre.com/img/btc/Step7QRCodeAdress.JPG)
 
 The bitcoin.com wallet have a qr code reader.
+
 This will allow you to scan a qr code to send your bitcoin.
 
 
 ![Step8](https://www.fredbarre.com/img/btc/ExtraStep8scan.JPG)
 
+ 
