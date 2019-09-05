@@ -1,7 +1,7 @@
 ---
 layout: page
-title: fred the tech-expert freelance writer
-subtitle: why do you want to work with me ?
+title: about me
+subtitle: why should you hire me as a freelance writer?
 permalink: about
 ---
 
