@@ -61,11 +61,11 @@ The pixeled "thing" in the middle is called a QR Code.
 
 The big chain of characters is your address.
 
-If you want to receive bitcoin. all you need to do is either: 
+If you want to receive bitcoin, all you need to do is either: 
 
 -show/send the QR Code.
 
--send the the address(the 2nd red arrow, you can copy it by tapping).
+-send the address(the 2nd red arrow, you can copy it by tapping).
 
 -send both for confirmation.
 
