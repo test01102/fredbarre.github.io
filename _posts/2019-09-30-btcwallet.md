@@ -41,7 +41,7 @@ Tap your BCH wallet.(The next 3 Steps can be repeated with your BTC wallet.)
 
 ![Step3](https://www.fredbarre.com/img/btc/Step3GoToBCH.JPG)
 
-Tap on "Wallet not backed up".
+Tap on "Wallet not backed up."
 
 ![Step4](https://www.fredbarre.com/img/btc/Step4WalletNotSave.JPG)
 
