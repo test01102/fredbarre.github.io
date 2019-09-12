@@ -2,6 +2,7 @@
 layout: post
 title: 5 freelance mistakes I am learning from
 image: /img/tired.png
+altimg: tired
 comments: true
 permalink: freelance-mistakes
 subtitle: My first programming freelance mission, building an android app
