@@ -3,6 +3,7 @@ layout: post
 title: bitcoin.com wallet step-by-step guide
 image: /img/btc/btc.jpg
 altimg: bitcoin-cash
+share-img: /img/btc/btc.jpg
 comments: true
 permalink: btcwallet
 subtitle: 
